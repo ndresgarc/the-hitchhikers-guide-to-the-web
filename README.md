@@ -1,6 +1,9 @@
 # the-hitchhikers-guide-to-the-web
 Don't panic
 
+## Philosophy
++ [Embrace the platform, Bramus](https://css-tricks.com/embrace-the-platform/)
+
 ## Coding
 
 ### Style
