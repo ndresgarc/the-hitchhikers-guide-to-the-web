@@ -9,6 +9,11 @@ Don't panic
 ### Style
 + [Code guidelines](https://github.com/Kristories/awesome-guidelines)
 
+## CSS (Cascading Stylesheets)
+
+### Gradients
++ [Make Beautiful Gradients, Joshua Comeau](https://www.joshwcomeau.com/css/make-beautiful-gradients/): Avoiding "gray dead zone" in CSS gradients.
+
 ## Components
 
 ### Switch
