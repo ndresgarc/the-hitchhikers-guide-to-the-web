@@ -9,6 +9,7 @@ Don't panic
 + [The masochism of implementing CSS baseline, Gordon](http://8gramgorilla.com/the-masochism-of-implementing-css-baseline/)
 + [Baseline, jkeyes](https://github.com/jkeyes/baseline)
 + [https://creativemarket.com/blog/whats-the-difference-between-leading-kerning-and-tracking](What’s the Difference Between Leading, Kerning and Tracking?)
++ [Text decoration](https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/)
 
 ## Coding
 
@@ -37,3 +38,4 @@ Don't panic
 
 + [Presentational and Container Components, Dan Abramov] (https://medium.com/@dan_abramov/)smart-and-dumb-components-7ca2f9a7c7d0
 + [Good advice on JSX conditionals, Vladimir Klepov] (https://thoughtspile.github.io/2022/01/17/jsx-conditionals/)
++ 10 React antipatterns : https://www.youtube.com/watch?v=b0IZo2Aho9Y
